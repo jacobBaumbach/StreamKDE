@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mExampleSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should approximate mean and variance[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to be added to another Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to calculate its weight[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to calculate its pdf and cdf value[0m[0m

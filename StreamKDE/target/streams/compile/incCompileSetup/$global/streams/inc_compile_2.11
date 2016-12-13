@@ -1,0 +1,641 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+44 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/Kernel$.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/Kernel.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelGenerator$.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelGenerator.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$10.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$11.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$12.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$13.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$2.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$3.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$4.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$5.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$6.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$7.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$8.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$9.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$approx$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$cdf$1$$anonfun$apply$2.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$cdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$df$1$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$updateMergeCost$1$1$$anonfun$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$updateMergeCost$1$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$counter$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$multipleGaussian$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$pdf$1$$anonfun$apply$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$pdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$randoNum$1$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$randomStream$1$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$2.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$3.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$4.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$comparisonCdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$comparisonPdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$composePlotDraw$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$composePlotDraw$2.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawCdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawComparisonCdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawComparisonPdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawPdf$1.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$.class
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot.class
+binary dependencies:
+14 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> /Users/jacobbaumbach/.ivy2/cache/com.twitter/algebird-core_2.11/jars/algebird-core_2.11-0.12.3.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> /Users/jacobbaumbach/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> /Users/jacobbaumbach/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> /Users/jacobbaumbach/.ivy2/cache/com.twitter/algebird-core_2.11/jars/algebird-core_2.11-0.12.3.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> /Users/jacobbaumbach/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/.ivy2/cache/com.twitter/algebird-core_2.11/jars/algebird-core_2.11-0.12.3.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/.ivy2/cache/co.theasi/plotly_2.11/jars/plotly_2.11-0.2-SNAPSHOT.jar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+44 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> com.jwb.streamKDE.Kernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> com.jwb.streamKDE.Kernel$
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> com.jwb.streamKDE.KernelGenerator
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> com.jwb.streamKDE.KernelGenerator$
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$10
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$11
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$12
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$13
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$3
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$4
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$5
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$6
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$7
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$8
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$9
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$approx$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$cdf$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$cdf$1$$anonfun$apply$2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$df$1$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$updateMergeCost$1$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$updateMergeCost$1$1$$anonfun$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$counter$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$multipleGaussian$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$pdf$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$pdf$1$$anonfun$apply$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$randoNum$1$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com.jwb.streamKDE.KernelMap$$anonfun$randomStream$1$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$3
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$4
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$comparisonCdf$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$comparisonPdf$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$composePlotDraw$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$composePlotDraw$2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$drawCdf$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$drawComparisonCdf$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$drawComparisonPdf$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com.jwb.streamKDE.KernelPlot$$anonfun$drawPdf$1
+used names:
+370 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> &&
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> *
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> +
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> ++
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> -
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> /
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> <=
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> <byname>
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> <init>
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> ==
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> AbstractFunction4
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> AveragedValue
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> CMSHasherImplicits
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> Double
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> Gaussian
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> Kernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> Long
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> None
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> Option
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> Product
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> ScalaRunTime
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> Serializable
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> TopCMS
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> _hashCode
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> _root_
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> _toString
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> algebird
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> alternateVariance
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> asInstanceOf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> breeze
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> cdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> com
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> count
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> distributions
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> eq
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> firstMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> isInstanceOf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> jwb
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> kernel2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> kernel2WeightedPdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> linearComboPdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> math
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> mean
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> mergeCost
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> mergeCostCalc
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> mergedKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> mergedWeightedPdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> nuCount
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> nuMeanSum
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> nuVarSum
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> package
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> pdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> pow
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> runtime
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> scala
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> secondMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> sqrt
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> stats
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> streamKDE
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> thisWeightedPdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> toString
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> totalCount
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> twitter
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> typedProductIterator
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> value
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> variance
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> variant
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> weight
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> x
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> x$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> x$2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> x$3
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> x$4
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> x$5
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> x$6
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> ||
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> <init>
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> AnyRef
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> AveragedValue
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> CMSHasher
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> CMSHasherImplicits
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> CMSHasherLong
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> Double
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> Int
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> Kernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> KernelGenerator
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> List
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> Long
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> None
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> TopPctCMS
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> algebird
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> apply
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> cmsMonoid
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> com
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> count
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> create
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> delta
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> eps
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> firstMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> heavyHittersPct
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> immutable
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> jwb
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> math
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> monoid
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> package
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> pow
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> round
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> scala
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> secondMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> seed
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> streamKDE
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> toLong
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> twitter
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> value
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> &&
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> *
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> +
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> ++
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> -
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> ->
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> /
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> :+
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> <
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> <=
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> <init>
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> ==
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> >
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> AnyRef
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Array
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> AveragedValue
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> ClassTag
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Double
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Function0
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Function1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Function2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Gaussian
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> IndexedSeq
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Int
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Kernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> KernelGenerator
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> KernelMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Long
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> None
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Ordering
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Predef
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Random
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> SortedMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Tuple2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Tuple3
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> Tuple4
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> _1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> _2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> _3
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> _4
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> _root_
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> a
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> acc
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> accFirst
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> accMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> accSc
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> accSecond
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> algebird
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> alternativeVariance
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> andThen
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> apply
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> array
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> asInstanceOf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> b
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> breeze
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> c
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> cKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> cMin
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> canBuildFrom
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> cdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> cm
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> collection
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> com
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> combine
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> containValue
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> contains
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> count
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> counter
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> createKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> cur
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> curKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> df
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> distribution
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> distributions
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> draw
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> drop
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> dropWhile
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> estimate
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> firstKey
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> firstMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> firstMomentI
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> foldLeft
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> frequency
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> g
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> gaussian
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> gaussianArray
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> immutable
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> initial
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> intWrapper
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> isInstanceOf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> jwb
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> k
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> kMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> kernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> kernelCur
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> kernelGenerator
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> kernelI
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> km
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> m
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> map
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> materializeClassTag
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> math
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> mean
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> meanCur
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> meanI
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> mergeCost
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> mergeCostI
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> mergeMin
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> min
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> minCur
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> minMergeCost
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> minPrev
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> ne
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> nextDouble
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> nuKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> nuMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> oldKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> pKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> pMin
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> package
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> pc
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> pdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> pow
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> prevKernel
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> prevMean
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> prob
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> randoNum
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> randomFunc
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> randomStream
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> refArrayOps
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> sc
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> scala
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> scalar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> secondMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> secondMomentI
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> size
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> sorted
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> stats
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> streamKDE
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> sumScalar
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> to
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> totalCount
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> totalFirstMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> totalSecondMoment
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> twitter
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> unchecked
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> underSize
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> updateMerge
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> updateMergeCost
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> updateWithMergeCost
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> updatedMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> updatedMapPF
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> util
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> v
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> value
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> x
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> x$1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> x$10
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> x$8
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> x$9
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> -
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> /
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> <init>
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> >
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> AnyRef
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> CartesianPlot
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Double
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Figure
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Function1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Function3
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> IndexedSeq
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Int
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> KernelMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> KernelPlot
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Line
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> None
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Option
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> Predef
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> ScatterMode
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> ScatterOptions
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> String
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> WritableDouble
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> _1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> _2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> _root_
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> actualCdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> actualCdfName
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> actualF
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> actualName
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> actualPdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> actualPdfName
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> additionalPlot
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> apply
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> approxCdfName
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> approxName
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> approxPdfName
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> begin
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> by
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> canBuildFrom
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> cdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> co
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> com
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> comparisonCdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> comparisonPdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> composePartialPlots
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> composePlotDraw
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> doubleWrapper
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> draw
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> drawFigure
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> end
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> figure
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> func
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> func2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> getOrElse
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> head
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> immutable
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> jwb
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> kMap
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> kdeCdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> kdePdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> keys
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> km
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> last
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> map
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> mode
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> name
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> name1
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> name2
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> ne
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> package
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> partialPlot
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> pdf
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> plot
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> plot2Figure
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> plotDraw
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> plotF
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> plotly
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> range
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> require
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> scala
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> server
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> size
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> stepSize
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> streamKDE
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> theasi
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> title
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> to
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> unchecked
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> withScatter
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> x$4
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> x$5
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> x$6
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> x$7
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> x$8
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> x$9
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> y
+product stamps:
+44 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/Kernel$.class -> lastModified(1481601106000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/Kernel.class -> lastModified(1481601106000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelGenerator$.class -> lastModified(1481601106000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelGenerator.class -> lastModified(1481601106000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$10.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$11.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$12.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$13.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$2.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$3.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$4.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$5.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$6.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$7.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$8.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$9.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$approx$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$cdf$1$$anonfun$apply$2.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$cdf$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$df$1$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$updateMergeCost$1$1$$anonfun$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$com$jwb$streamKDE$KernelMap$$updateMergeCost$1$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$counter$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$multipleGaussian$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$pdf$1$$anonfun$apply$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$pdf$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$randoNum$1$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$$anonfun$randomStream$1$1.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap$.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelMap.class -> lastModified(1481601873000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$2.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$3.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$4.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$comparisonCdf$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$comparisonPdf$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$composePlotDraw$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$composePlotDraw$2.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawCdf$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawComparisonCdf$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawComparisonPdf$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$$anonfun$drawPdf$1.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot$.class -> lastModified(1481525525000)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/target/scala-2.11/classes/com/jwb/streamKDE/KernelPlot.class -> lastModified(1481525525000)
+source stamps:
+4 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> hash(9b193dd1390719fce532ff6c59b02f60dc29aa82)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> hash(582e1178dd23116c2fdbed52cddc445d28bfb6e1)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> hash(77c8a958de3ab954201185ff865aadb8d4414670)
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> hash(38309a9c3b05bad06be65410665cd539188f3307)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444172124000)
+/Users/jacobbaumbach/.ivy2/cache/co.theasi/plotly_2.11/jars/plotly_2.11-0.2-SNAPSHOT.jar -> lastModified(1466491069000)
+/Users/jacobbaumbach/.ivy2/cache/com.twitter/algebird-core_2.11/jars/algebird-core_2.11-0.12.3.jar -> lastModified(1480717119000)
+/Users/jacobbaumbach/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/Users/jacobbaumbach/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar -> lastModified(1452974058000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/jacobbaumbach/.ivy2/cache/co.theasi/plotly_2.11/jars/plotly_2.11-0.2-SNAPSHOT.jar -> co.theasi.plotly.WritableImplicits
+/Users/jacobbaumbach/.ivy2/cache/com.twitter/algebird-core_2.11/jars/algebird-core_2.11-0.12.3.jar -> com.twitter.algebird.AveragedValue$
+/Users/jacobbaumbach/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Predef$
+/Users/jacobbaumbach/.ivy2/cache/org.scalanlp/breeze_2.11/jars/breeze_2.11-0.12.jar -> breeze.stats.distributions.RandBasis
+internal apis:
+4 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA7zNvlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKs9LHZ0AAZub3RpZnlzcQB+AAzmFHUpdAAGd2VpZ2h0c3EAfgAMBfNrt3QABWNvdW50c3EAfgAMRGIap3QACW1lcmdlQ29zdHNxAH4ADFAcQmR0AAR3YWl0c3EAfgAMqmkMtnQADmNvcHkkZGVmYXVsdCQyc3EAfgAM7x5mIHQADSRhc0luc3RhbmNlT2ZzcQB+AAyAcoBBdAAIdmFyaWFuY2VzcQB+AAyfhkDBdAAMcHJvZHVjdEFyaXR5c3EAfgAMBCjW5XQABmVxdWFsc3NxAH4ADJpVwFl0AB11cGRhdGVXaXRoTWVyZ2VDb3N0JGRlZmF1bHQkM3NxAH4ADKQ5hnp0AAtmaXJzdE1vbWVudHNxAH4ADOty87N0AANwZGZzcQB+AAzJYnaqdAAMYXNJbnN0YW5jZU9mc3EAfgAMcHzQAHQAE3VwZGF0ZVdpdGhNZXJnZUNvc3RzcQB+AAw8uZpXdAAMc3luY2hyb25pemVkc3EAfgAMZrs/03QADWNkZiRkZWZhdWx0JDJzcQB+AAxHCZpNdAANJGlzSW5zdGFuY2VPZnNxAH4ADAo8DaJ0AARtZWFuc3EAfgAM0kznI3QACGNhbkVxdWFsc3EAfgAMySDXlXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMcoTzJ3QADXByb2R1Y3RQcmVmaXhzcQB+AAxXLB71dAAJbm90aWZ5QWxsc3EAfgAMHskW5XQADHNlY29uZE1vbWVudHNxAH4ADJ7bLAR0ABJ2YXJpYW5jZSRkZWZhdWx0JDFzcQB+AAxhhN4hdAAMaXNJbnN0YW5jZU9mc3EAfgAMIEz6YXQABjxpbml0PnNxAH4ADAyOQB50AAI9PXNxAH4ADEbtjUB0AA1wZGYkZGVmYXVsdCQyc3EAfgAMuJCiEnQAF21lcmdlQ29zdENhbGMkZGVmYXVsdCQzc3EAfgAMHWyi23QABWNsb25lc3EAfgAM44/9L3QADmNvcHkkZGVmYXVsdCQzc3EAfgAMSvZUKXQABGNvcHlzcQB+AAx+8jY2dAAIdG9TdHJpbmdzcQB+AAzP7Rs1dAABK3NxAH4ADOZob9N0AAIhPXNxAH4ADEo8H9l0AAZLZXJuZWxzcQB+AAwcOeK7dAADY2Rmc3EAfgAMuRttrnQACGdldENsYXNzc3EAfgAMTFRn4HQADmNvcHkkZGVmYXVsdCQxc3EAfgAMGMIT8HQAEHdlaWdodCRkZWZhdWx0JDFzcQB+AAwvESGidAACbmVzcQB+AAy1qN4NdAANbWVyZ2VDb3N0Q2FsY3NxAH4ADBdMqlV0AAJlcXNxAH4ADKGE8Cl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyIPk8sdAACIyNzcQB+AAz3OnvDdAAIZmluYWxpemVzcQB+AAy3+aORdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAz8n8bBdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB5eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAYY29tLmp3Yi5zdHJlYW1LREUuS2VybmVsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCSeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCRAHBzcQB+AJZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AeUwACWluaGVyaXRlZHEAfgB5TAAHcGFyZW50c3EAfgB5eHEAfgCac3EAfgCRAHBzcQB+AJZ1cQB+AHQAAAAAc3EAfgCRAHBzcQB+AJZ1cQB+AHQAAAAAc3EAfgCRAHBzcQB+AJZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJl0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALdzcQB+AKpxAH4ArXNxAH4ArnNxAH4AsXVxAH4AtAAAAANzcQB+ALZ0AARqYXZhc3EAfgC2dAACaW9xAH4Au3NxAH4AqnQAB1Byb2R1Y3RxAH4AsHNxAH4AqnQABkVxdWFsc3EAfgCwc3EAfgCqdAAGT2JqZWN0c3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AtnEAfgDBc3EAfgC2dAAEbGFuZ3EAfgC7c3EAfgCqdAADQW55cQB+ALB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdjb20uandic3EAfgDUdAADY29tc3EAfgDUdAARY29tLmp3Yi5zdHJlYW1LREVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVj2Tra6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUmxk90TkHGfzlMv9sWbAvYNwpqoI=
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAZ71yxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJpBrpx0AAZub3RpZnlzcQB+AAwkyjBadAAMY3JlYXRlS2VybmVsc3EAfgAMtwd/33QABHdhaXRzcQB+AAx2rLoBdAAPS2VybmVsR2VuZXJhdG9yc3EAfgAMpO0A33QADSRhc0luc3RhbmNlT2ZzcQB+AAwRMPrddAAGZXF1YWxzc3EAfgAM1Zc+AHQADGFzSW5zdGFuY2VPZnNxAH4ADJWvKLd0AAxzeW5jaHJvbml6ZWRzcQB+AAxh8Hy5dAANJGlzSW5zdGFuY2VPZnNxAH4ADEYzcMl0AAljbXNNb25vaWRzcQB+AAy7xRqTdAAJbm90aWZ5QWxsc3EAfgAM7YIsHHQADGlzSW5zdGFuY2VPZnNxAH4ADAn3Z8N0AAY8aW5pdD5zcQB+AAyNBiOTdAACPT1zcQB+AAz/wFl6dAAFY2xvbmVzcQB+AAw3Ofd2dAAIdG9TdHJpbmdzcQB+AAzi+xuudAACIT1zcQB+AAxDbRfNdAAIZ2V0Q2xhc3NzcQB+AAwD0ru5dAACbmVzcQB+AAz4rwhndAACZXFzcQB+AAxBMcg0dAACIyNzcQB+AAx2uR/odAAIZmluYWxpemVzcQB+AAyGJwmIdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAhY29tLmp3Yi5zdHJlYW1LREUuS2VybmVsR2VuZXJhdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBeeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdAHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBmc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2NvbS5qd2JzcQB+AJN0AANjb21zcQB+AJN0ABFjb20uandiLnN0cmVhbUtERXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPZOtrp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL2phY29iYmF1bWJhY2gvRGVza3RvcC9TdHJlYW1LREUvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRYLhF43SMRbC/b7VLN3ERdKL+24Q==
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDwtDOoAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cO9J68J0AAZub3RpZnlzcQB+AAzHA7P1dAAEd2FpdHNxAH4ADJg8thF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMITbl4HQABHNpemVzcQB+AAzZ0xO/dAAEa01hcHNxAH4ADJ0X83N0ABF0b3RhbFNlY29uZE1vbWVudHNxAH4ADKJyYEt0AAZlcXVhbHNzcQB+AAzpl/RPdAADcGRmc3EAfgAMTo/rHHQADGFzSW5zdGFuY2VPZnNxAH4ADMIFTsl0AAlLZXJuZWxNYXBzcQB+AAz9lXJgdAAMc3luY2hyb25pemVkc3EAfgAMeDgOEXQADSRpc0luc3RhbmNlT2ZzcQB+AAwOO3HHdAAGYXBwcm94c3EAfgAMTUX4MnQAA3gkMXNxAH4ADLl6N610AAlub3RpZnlBbGxzcQB+AAyloCHXdAAQbXVsdGlwbGVHYXVzc2lhbnNxAH4ADMHYdo50ABNhbHRlcm5hdGl2ZVZhcmlhbmNlc3EAfgAMDo4Tc3QADGlzSW5zdGFuY2VPZnNxAH4ADKUt9wJ0ABB0b3RhbEZpcnN0TW9tZW50c3EAfgAMu5whl3QABjxpbml0PnNxAH4ADOVRSqN0AAI9PXNxAH4ADH/hBPp0AAVjbG9uZXNxAH4ADGA4mpd0AAp0b3RhbENvdW50c3EAfgAMZ7Vmh3QAB2NvbWJpbmVzcQB+AAytUf8ndAAHY291bnRlcnNxAH4ADBe0nJJ0AAh0b1N0cmluZ3NxAH4ADEvvoup0AAErc3EAfgAMxBov8HQAAiE9c3EAfgAMsLaQ/HQACWZyZXF1ZW5jeXNxAH4ADF3iaLV0AANjZGZzcQB+AAxQrpQUdAAIZ2V0Q2xhc3NzcQB+AAyfHzyKdAAPa2VybmVsR2VuZXJhdG9yc3EAfgAMqdDdsHQAAm5lc3EAfgAM5JZlc3QAEGFwcHJveCRkZWZhdWx0JDNzcQB+AAwr53nCdAAQPGluaXQ+JGRlZmF1bHQkMnNxAH4ADI3iewd0AAJlcXNxAH4ADDcpulJ0AAIjI3NxAH4ADK4K/Z10AAhmaW5hbGl6ZXNxAH4ADPu11150AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABtjb20uandiLnN0cmVhbUtERS5LZXJuZWxNYXB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AH54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AH0AcHNxAH4AgnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBlTAAJaW5oZXJpdGVkcQB+AGVMAAdwYXJlbnRzcQB+AGV4cQB+AIZzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AonQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ao3NxAH4AlnQAA0FueXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJ0AAVzY2FsYXEAfgCpc3EAfgBicQB+AG91cQB+AHAAAAAAc3EAfgByAHQAG2NvbS5qd2Iuc3RyZWFtS0RFLktlcm5lbE1hcHVxAH4AdQAAAAB+cQB+AHd0AAZNb2R1bGV1cQB+AHsAAAAAc3EAfgB9AHBzcQB+AIJxAH4Ah3NxAH4AfQBwc3EAfgCCc3EAfgCKc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AJQAAAACc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AKVzcQB+AKJxAH4Ap3EAfgCpc3EAfgCWcQB+AKtzcQB+AJpzcQB+AJ11cQB+AKAAAAACc3EAfgCicQB+ALBxAH4AqXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2NvbS5qd2JzcQB+ANR0AANjb21zcQB+ANR0ABFjb20uandiLnN0cmVhbUtERXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPZaZ/h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL2phY29iYmF1bWJhY2gvRGVza3RvcC9TdHJlYW1LREUvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR3yKlY3jq5VCARhf+GWq241EFGcA==
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCmECTDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cODsg7l0AAZub3RpZnlzcQB+AAwQ2SSDdAAKZHJhd0ZpZ3VyZXNxAH4ADBYCCLJ0AApLZXJuZWxQbG90c3EAfgAM0Rss7HQADnBsb3QkZGVmYXVsdCQzc3EAfgAM1vT71XQABHdhaXRzcQB+AAwEWozSdAANJGFzSW5zdGFuY2VPZnNxAH4ADNFk/3F0AAdkcmF3Q2Rmc3EAfgAM3FpHEnQABHBsb3RzcQB+AAztyK/cdAALcGxvdDJGaWd1cmVzcQB+AAz1WHYwdAAGZXF1YWxzc3EAfgAMtbLNynQADWNvbXBhcmlzb25DZGZzcQB+AAxzjz1tdAAMYXNJbnN0YW5jZU9mc3EAfgAMbCsUrXQADHN5bmNocm9uaXplZHNxAH4ADGB84BN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMfM7wJnQAE2NvbXBvc2VQYXJ0aWFsUGxvdHNzcQB+AAyCczNadAANY29tcGFyaXNvblBkZnNxAH4ADMbAjXh0AAlub3RpZnlBbGxzcQB+AAyZ+0AddAAMaXNJbnN0YW5jZU9mc3EAfgAMbNnyP3QACHBsb3REcmF3c3EAfgAM9f7Vj3QABmtkZUNkZnNxAH4ADPsIi6V0AAY8aW5pdD5zcQB+AAzGTNBndAACPT1zcQB+AAxLuqmkdAAFcmFuZ2VzcQB+AAwK1tFSdAAFY2xvbmVzcQB+AAyqOMyvdAARZHJhd0NvbXBhcmlzb25DZGZzcQB+AAw5nzb/dAAGa2RlUGRmc3EAfgAMv9GOgnQAD2NvbXBvc2VQbG90RHJhd3NxAH4ADAvKP290AAh0b1N0cmluZ3NxAH4ADJiqfNJ0AAIhPXNxAH4ADKF9i8R0AAhnZXRDbGFzc3NxAH4ADDzRyOt0AAdkcmF3UGRmc3EAfgAM29biUnQAAm5lc3EAfgAMWYAn5HQAAmVxc3EAfgAMbjLcjHQAEWRyYXdDb21wYXJpc29uUGRmc3EAfgAMSjMgv3QAAiMjc3EAfgAMqrBEBHQACGZpbmFsaXplc3EAfgAMvPkyWXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHGNvbS5qd2Iuc3RyZWFtS0RFLktlcm5lbFBsb3R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHkAcHNxAH4AfnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AIJzcQB+AHkAcHNxAH4AfnVxAH4AXAAAAABzcQB+AHkAcHNxAH4AfnVxAH4AXAAAAABzcQB+AHkAcHNxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AnnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4An3NxAH4AknQAA0FueXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ50AAVzY2FsYXEAfgCldXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHY29tLmp3YnNxAH4Ar3QAA2NvbXNxAH4Ar3QAEWNvbS5qd2Iuc3RyZWFtS0RFc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY8c1n6XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMvamFjb2JiYXVtYmFjaC9EZXNrdG9wL1N0cmVhbUtERS9TdHJlYW1LREUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDgwmpw7BbrQa+ZUEGZc1TkYjzMH
+external apis:
+0 items
+source infos:
+4 items
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/Kernel.scala -> 
+AAAAAAAAAAA=
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelGenerator.scala -> 
+AAAAAAAAAAA=
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelMap.scala -> 
+AAAAAAAAAAA=
+/Users/jacobbaumbach/Desktop/StreamKDE/StreamKDE/src/main/scala/KernelPlot.scala -> 
+AAAAAAAAAAA=
+compilations:
+31 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNs/IQB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNtFoUZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNuskjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNu16KJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNvj5eZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNvvDdx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNvwKNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNv0kVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNv0/PJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNv21ad1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNziW691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNzufQR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWOV1dJZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWOzGSEx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO+DZMt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/NyO11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/aNDt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/eP3Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/f9zx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/hTlF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/hvZN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/tTet1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWO/5DSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPHBJIt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPHNZ+l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPTcLoN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPVeW+N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPV7yQp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPZOtrp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPZOwrB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPZaZ/h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9qYWNvYmJhdW1iYWNoL0Rlc2t0b3AvU3RyZWFtS0RFL1N0cmVhbUtERS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

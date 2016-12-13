@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mKernelMapSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Kernel Map[0m[0m
+[0m[[0minfo[0m] [0m[32m- should when under size, and has a new, already seen,[0m[0m
+[0m[[0minfo[0m] [0m[32mvalue added to it should update the corresponding Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should when under size, and has a new, unseen, value added to it add a new Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should is full, and has a new, already seen, value added to it should update the corresponding Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should is full, and has a new, unseen, value added to it should remove[0m[0m
+[0m[[0minfo[0m] [0m[32m the two Kernels with the smallest merge cost and add their merged result to the kMap[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to tell you the frequency of a value[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to calculate the cdf for a given value[0m[0m

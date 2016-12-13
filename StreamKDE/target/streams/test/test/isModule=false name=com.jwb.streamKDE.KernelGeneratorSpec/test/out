@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mKernelGeneratorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA KernelGenerator[0m[0m
+[0m[[0minfo[0m] [0m[32m- should given two Doubles that are equal, generate two Kernels that are equal[0m[0m

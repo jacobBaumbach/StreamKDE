@@ -1,0 +1,12 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.jwb.streamKDE.KernelSpec, org.scalatest.tools.Framework$$anon$1@2313834c, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.jwb.streamKDE.KernelGeneratorSpec, org.scalatest.tools.Framework$$anon$1@2313834c, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.jwb.streamKDE.KernelMapSpec, org.scalatest.tools.Framework$$anon$1@2313834c, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 7 minutes, 47 seconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 15[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 15, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.jwb.streamKDE.KernelSpec[0m
+[0m[[0mdebug[0m] [0m	com.jwb.streamKDE.KernelGeneratorSpec[0m
+[0m[[0mdebug[0m] [0m	com.jwb.streamKDE.KernelMapSpec[0m

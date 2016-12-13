@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mKernelSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should approximate mean and variance[0m[0m
+[0m[[0minfo[0m] [0m[32m- should use a default variance when its variance is too small[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to be added to another Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to calculate its weight[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to calculate its cdf value[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to calculate its pdf value[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to calculate its merge cost with another Kernel[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to generate a new Kernel with its new merge cost[0m[0m
